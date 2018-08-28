@@ -5,9 +5,8 @@ permalink: /
 published: true
 # meta-data variables
 title: Home
-description: >
-keywords: ''
 # custom variables
+promotion-table: true
 sidebar: false
 feature: true
 feature-title: >-
