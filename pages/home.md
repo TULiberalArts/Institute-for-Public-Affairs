@@ -10,15 +10,15 @@ promotion-table: true
 sidebar: false
 feature: true
 feature-title: >-
-  
+  Institute for Public Affairs
 feature-image: media/PA-Capital-Semester-students-with-Gov-Wolf-Slide-Show.png
 feature-body: >-
 ---
 ![Philly Skyline]({{site.baseurl}}/media/philly_skyline120.jpeg){:.img-right}
-Temple University’s  conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
+Temple University’s Institute for Public Affairs conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
 
 ## Mission
-Temple University’s  (formely the Institute for Public Affairs) conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
+The Institute for Public Affairs conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania.
 
 ## Objectives
 - IPA research targets important social, economic, and political problems, and public policies that address them.
@@ -30,17 +30,17 @@ ___
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="The Pennsylvania Capital Semester"
-    content="NEED CONTENT"
+    content="This program is open to students of any major and college at Temple University as well as students of other colleges or universities, and is modeled on a study abroad placement. Students will experience total immersion in state institutions and state politics in Harrisburg."
     image=""
-    button-link="/Institute-for-Public-Affairs/the-pennsylvania-capital-semester/"
+    button-link="ttp://develop.cla.temple.edu/institute-for-public-affairs/the-pennsylvania-capital-semester/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
       title="The Washington Semester"
-      content="NEED CONTENT"
+      content="The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students."
       image=""
-      button-link="/Institute-for-Public-Affairs/the-washington-semester/"
+      button-link="http://develop.cla.temple.edu/institute-for-public-affairs/the-washington-semester/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
