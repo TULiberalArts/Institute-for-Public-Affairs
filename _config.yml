@@ -2,11 +2,11 @@
 # Program/Department Title
 title: 
 # Subdirectory (with / at only at beginning)
-baseurl: /Institute-for-Public-Affairs
+baseurl: /institute-for-public-affairs
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 # url spits sitemap
-url: https://www.cla.temple.edu/Institute-for-Public-Affairs
+url: https://www.cla.temple.edu/institute-for-public-affairs
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
