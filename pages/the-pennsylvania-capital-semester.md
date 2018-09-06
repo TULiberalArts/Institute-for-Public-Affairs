@@ -31,7 +31,7 @@ ___
 - Internships might involve outside activities, such as fundraisers, press conferences, receptions and other special events.
 - Take a look at the essential [Guide to Interning in Harrisburg](https://drive.google.com/file/d/1zMMRXJMMuxNqvfJ-wR6CCuM5mcloWKs_/view?usp=sharing) to get an idea of life as an intern in the program.
 - Enrollment in the program includes a $1500 award to Temple students to be received after the first three weeks of the internship.
-- Read more about past students in the program. **(link to alumni page)**
+- Read more about [past students]((http://develop.cla.temple.edu/institute-for-public-affairs/program-alumni/) in the program.
 
 ## Requirements and Application
 - Students must be juniors or seniors by the beginning of the internship semester and possess a minimum 3.0 GPA.
