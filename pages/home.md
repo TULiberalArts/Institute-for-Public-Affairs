@@ -11,7 +11,7 @@ sidebar: false
 feature: true
 feature-title: >-
   Institute for Public Affairs
-feature-image: media/PA-Capital-Semester-students-with-Gov-Wolf-Slide-Show.png
+feature-image: 
 feature-body: >-
 ---
 ![Philly Skyline]({{site.baseurl}}/media/philly_skyline120.jpeg){:.img-right}
