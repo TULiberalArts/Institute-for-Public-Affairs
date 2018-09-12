@@ -1,4 +1,4 @@
-# 
+# Institute for Public Affairs
 
 [![Build Status][travis-img]][travis]
 
