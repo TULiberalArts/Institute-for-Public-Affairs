@@ -32,7 +32,7 @@ ___
     title="The Pennsylvania Capital Semester"
     content="This program is open to students of any major and college at Temple University as well as students of other colleges or universities, and is modeled on a study abroad placement. Students will experience total immersion in state institutions and state politics in Harrisburg."
     image=""
-    button-link="http://develop.cla.temple.edu/institute-for-public-affairs/the-pennsylvania-capital-semester/"
+    button-link="https://develop.cla.temple.edu/institute-for-public-affairs/the-pennsylvania-capital-semester/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -40,7 +40,7 @@ ___
       title="The Washington Semester"
       content="The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students."
       image=""
-      button-link="http://develop.cla.temple.edu/institute-for-public-affairs/the-washington-semester/"
+      button-link="https://develop.cla.temple.edu/institute-for-public-affairs/the-washington-semester/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
