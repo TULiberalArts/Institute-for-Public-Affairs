@@ -15,7 +15,7 @@ sidebar: false
 The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students. If accepted into the program, students register for three courses in the College of Liberal Arts (two for 3 credits each, and one for 9 credits) for a 15-credit semester in the fall and spring. (Summer programs are also available for 12 credits.) The  serves as liaison to The Washington Center (TWC), a well-established and well-regarded internship semester program in Washington, DC through which Temple students receive internships and take classes.
 
 _What’s it like to be a student in the program? Watch [TWC’s interviews with alumni](https://www.youtube.com/watch?v=tmkbVCBiYo8)._
-- **[Profiles of The Washington Semester Alumni](http://develop.cla.temple.edu/institute-for-public-affairs/program-alumni/)**
+- **Profiles of The Washington Semester Alumni**
 - **[The Washington Semester in the Temple News](https://news.temple.edu/news/2014-05-02/temple%E2%80%99s-washington-semester-begins?utm_source=templetoday&utm_medium=email&utm_campaign=Washington_Semester)**
 
 ## The Washington Center
