@@ -32,7 +32,7 @@ ___
     title="The Pennsylvania Capital Semester"
     content="This program is open to students of any major and college at Temple University as well as students of other colleges or universities, and is modeled on a study abroad placement. Students will experience total immersion in state institutions and state politics in Harrisburg."
     image=""
-    button-link="ttp://develop.cla.temple.edu/institute-for-public-affairs/the-pennsylvania-capital-semester/"
+    button-link="http://develop.cla.temple.edu/institute-for-public-affairs/the-pennsylvania-capital-semester/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
