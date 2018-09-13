@@ -46,7 +46,7 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Center on Regional Politics"
-        content=" "
+        content="The Center on Regional Politics provides neutral ground and intellectual resources to encourage and support interaction among leaders throughout Southeastern Pennsylvania."
         image=""
         button-link="http://www.cla.temple.edu/corp/"
         button-text="Learn More" %}
