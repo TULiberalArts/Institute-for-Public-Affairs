@@ -1,5 +1,3 @@
-- text: Staff
-  url: /staff/
 - text: Centers and Projects
   url : /centers-and-projects/
 - text: Publications
@@ -10,5 +8,7 @@
   url: /the-washington-semester/
 - text: Opportunities
   url: /Opportunities/
+- text: Staff
+  url: /staff/  
 - text: Program Alumni
   url: /program-alumni/
