@@ -119,10 +119,10 @@ Compose an original essay of approximately 500 words to be used as a writing sam
 
 All applicants must have completed PS 1101, or a course judged equivalent. After applying to IPA, students are interviewed. Acceptance is contingent upon approval of the designated campus liaison, see contact information below.
 
-Michelle J. Atherton</br>
-Associate Director, </br>
-[215-204-9074](tel:2152049074)</br>
-[mjather@temple.edu](mailto:mjather@temple.edu)</br>
+**Michelle J. Atherton<br>
+Associate Director, <br>
+[215-204-9074](tel:2152049074)<br>
+[mjather@temple.edu](mailto:mjather@temple.edu)**<br>
 
 ## Important Dates:
 - **Spring 2018 application deadlines: Priority: October 4, 2017; Regular: November 8, 2017**
