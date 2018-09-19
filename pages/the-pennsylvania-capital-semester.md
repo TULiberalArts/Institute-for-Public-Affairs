@@ -17,7 +17,7 @@ Started in fall 2009, The  sponsors an internship semester each fall and spring 
 
 ___
 
-<div align="center"><iframe width="620" height="349" src="https://www.youtube.com/embed/HWezXc_d0tA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div align="center" class="video-container"><iframe width="620" height="349" src="https://www.youtube.com/embed/HWezXc_d0tA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
 
