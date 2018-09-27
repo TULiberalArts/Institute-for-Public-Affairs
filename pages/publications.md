@@ -11,7 +11,7 @@ keywords: 'public policy, research, publications'
 sidebar: false
 ---
 ## Publications
-_**[Commonwealth: A Journal of Pennsylvania Politics and Policy archives](http://sites.temple.edu/commonwealth/) are hosted by the **_.
+_**[Commonwealth: A Journal of Pennsylvania Politics and Policy archives](http://sites.temple.edu/commonwealth/) are hosted by the Institute for Public Affairs.**_.
 
 - **Center on Regional Politics Research at a Glance**
 [Explaining School Fund Balances – Are PA Schools Holding Too Much in Reserve?](https://drive.google.com/file/d/1ZctL5C6Q3eyXMcQ87OD-Y5d7eGOUKS6z/view?usp=sharing) 
@@ -90,19 +90,19 @@ _**[Commonwealth: A Journal of Pennsylvania Politics and Policy archives](http:/
 ___
 
 ### The Temple Papers on the Pennsylvania General Assembly – Five Volumes
-**I. Joseph P. McLaughlin**</br>
+**I. Joseph P. McLaughlin**<br>
 The Temple Papers on the Pennsylvania General Assembly Volume I: [The Pennsylvania General Assembly Before and After the 1968 Legislative Modernization Commission: The Evolution of an Institution](https://drive.google.com/file/d/1YS1O7JlAmriq4m0I7isnFBkb4MqG1ZdJ/view?usp=sharing)</br>
 
-**II. Van Huynh, Shelly Forrester, Michelle J. Atherton, Mike Cassidy, and Joseph P. McLaughlin**</br>
+**II. Van Huynh, Shelly Forrester, Michelle J. Atherton, Mike Cassidy, and Joseph P. McLaughlin**<br>
 The Temple Papers on the Pennsylvania General Assembly Volume II: [The Pennsylvania General Assembly’s Greatest Achievements AND The Parties’ Roles in Enacting Important Laws 1968-2008](https://drive.google.com/file/d/11fChKfS4ir_rtENCpMuSZl0mjU62qVeN/view?usp=sharing)</br>
 
-**III. John P. Krill, Jr., Michael R. Dimino, Sr., and Michelle J. Atherton**</br>
+**III. John P. Krill, Jr., Michael R. Dimino, Sr., and Michelle J. Atherton**<br>
 The Temple Papers on the Pennsylvania General Assembly Volume III: [The Rules of the Game: How the Constitution Affects Lawmaking in Pennsylvania](https://drive.google.com/file/d/1APy1YMHxnryKtGbwjEB2tUV4vcUnsRxr/view?usp=sharing)</br>
 
-**IV. Richard A. Stafford, Joseph P. McLaughlin, Michelle J. Atherton, Megan Mullin, and Nathan Shrader**</br>
+**IV. Richard A. Stafford, Joseph P. McLaughlin, Michelle J. Atherton, Megan Mullin, and Nathan Shrader**<br>
 The Temple Papers on the Pennsylvania General Assembly Volume IV: [A Discussion of Topics Related to the Continuing Evolution of the Pennsylvania General Assembly](https://drive.google.com/file/d/1XKJ0VF0fGbEo0LZO5DPG1CRcB6vt7lhL/view?usp=sharing)</br>
 
-**V. Megan Mullin**</br>
+**V. Megan Mullin**<br>
 The Temple Papers on the Pennsylvania General Assembly Volume V: [Literature Review: Findings from Academic Research on  State Government Institutions and Reforms](https://drive.google.com/file/d/1e-bzvDEG_-dyMcJGcWC5Q_b086SrJCZb/view?usp=sharing)</br>
 
 ___
