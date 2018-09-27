@@ -12,14 +12,14 @@ sidebar: false
 ---
 ![The Washington Semester]({{site.baseurl}}/media/resized Washington-Semester.jpg){:.responsive-img .img-right}
 ## The Washington Semester
-The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students. If accepted into the program, students register for three courses in the College of Liberal Arts (two for 3 credits each, and one for 9 credits) for a 15-credit semester in the fall and spring. (Summer programs are also available for 12 credits.) The  serves as liaison to The Washington Center (TWC), a well-established and well-regarded internship semester program in Washington, DC through which Temple students receive internships and take classes.
+The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students. If accepted into the program, students register for three courses in the College of Liberal Arts (two for 3 credits each, and one for 9 credits) for a 15-credit semester in the fall and spring. (Summer programs are also available for 12 credits.) The Institute for Public Affairs serves as liaison to [The Washington Center (TWC)](https://www.twc.edu/), a well-established and well-regarded internship semester program in Washington, DC through which Temple students receive internships and take classes.
 
 _What’s it like to be a student in the program? Watch [TWC’s interviews with alumni](https://www.youtube.com/watch?v=tmkbVCBiYo8)._
-- **Profiles of The Washington Semester Alumni**
+- **Profiles of [The Washington Semester Alumni](https://develop.cla.temple.edu/institute-for-public-affairs/program-alumni/)**
 - **[The Washington Semester in the Temple News](https://news.temple.edu/news/2014-05-02/temple%E2%80%99s-washington-semester-begins?utm_source=templetoday&utm_medium=email&utm_campaign=Washington_Semester)**
 
 ## The Washington Center
-TWC is a nonprofit, nonpartisan educational organization in Washington, DC which provides integrated academic and work experience to prepare college students and professionals for careers in politics, policy or related professions. The program runs year-round, provides housing and places students in internships that suit their interests. TWC also offers a wide array of courses so undergraduate students are able to maintain full-time status and remain on track to graduation. The program includes training in leadership, professional skills, a lecture series and special events throughout the semester. The semester’s program includes an internship for 9 credits, an academic course chosen from an extensive catalog for 3 credits, and a leadership forum, the LEAD Colloquium, and the completion of a portfolio for three credits. All are required components for each participant in Temple’s TWC-conducted program.
+[TWC](https://www.twc.edu/) is a nonprofit, nonpartisan educational organization in Washington, DC which provides integrated academic and work experience to prepare college students and professionals for careers in politics, policy or related professions. The program runs year-round, provides housing and places students in internships that suit their interests. TWC also offers a wide array of courses so undergraduate students are able to maintain full-time status and remain on track to graduation. The program includes training in leadership, professional skills, a lecture series and special events throughout the semester. The semester’s program includes an internship for 9 credits, an academic course chosen from an extensive catalog for 3 credits, and a leadership forum, the LEAD Colloquium, and the completion of a portfolio for three credits. All are required components for each participant in Temple’s TWC-conducted program.
 
 ## The Internship
 When applying, students indicate their interest in one of TWC’s programs:
@@ -75,7 +75,7 @@ Accepted students are then registered in:
 - CLA 2785 – The Washington Center Internship, 9 credits
 - CLA 2701 – The Washington Center Seminar, 3 credits
 - CLA 1701 – The Washington Center LEAD Colloquium, 3 credits
-- TOTAL: 15 credits
+TOTAL: 15 credits
 The summer program is 12 credits, with six awarded for the internship.
 
 ## Housing and Residential Life
@@ -88,7 +88,7 @@ Most internships are unpaid, although some internships in the federal sector pro
 
 Students will pay Temple tuition and fees for the 15 credit semester and will pay for their own housing. TWC will award PA resident students living in its facilities a $1,250 scholarship, reducing semester room charges to $ 4,740 for each student in the fall and spring terms.
 
-In-state students benefit from a grant from the Commonwealth of Pennsylvania to TWC to reduce the program fee. Total student costs include Temple tuition; Temple pays TWC their program fee. All students accepted into the Washington Semester program receive a **$2500 scholarship** from the . Students should be mindful that full costs of the program include Temple tuition, housing in D.C., and food plus expenses. We encourage interested students to meet with us to discuss costs and scholarships.
+In-state students benefit from a grant from the Commonwealth of Pennsylvania to TWC to reduce the program fee. Total student costs include Temple tuition; Temple pays TWC their program fee. All students accepted into the Washington Semester program receive a **$2500 scholarship** from the Institute for Public Affairs. Students should be mindful that full costs of the program include Temple tuition, housing in D.C., and food plus expenses. We encourage interested students to meet with us to discuss costs and scholarships.
 
 _Interested students should note **summer programs** are very popular, and more often than not, funding from the Commonwealth of PA to offset TWC program fees is limited. Students applying for the summer term should do so **as soon as possible** in order to receive this funding._
 
@@ -120,11 +120,11 @@ Compose an original essay of approximately 500 words to be used as a writing sam
 All applicants must have completed PS 1101, or a course judged equivalent. After applying to IPA, students are interviewed. Acceptance is contingent upon approval of the designated campus liaison, see contact information below.
 
 **Michelle J. Atherton<br>
-Associate Director, <br>
+Associate Director<br>
 [215-204-9074](tel:2152049074)<br>
 [mjather@temple.edu](mailto:mjather@temple.edu)**<br>
 
 ## Important Dates:
-- **Spring 2018 application deadlines: Priority: October 4, 2017; Regular: November 8, 2017**
-- **Summer 2018 application deadlines: Priority: February 14, 2018;Regular application period CLOSED**
-- **Fall 2018 application deadlines: Priority:  April 1, 2018; Regular: May 9, 2018**
+- **Spring 2019 application deadlines: Priority: October 10, 2018; Regular: November 7, 2018**
+- **Summer 2019 application deadlines: Priority: February 13, 2019; Regular application period March 6, 2019**
+- **Fall 2019 application deadlines: Priority: April 10, 2019; Regular: May 8, 2019**
