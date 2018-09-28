@@ -8,8 +8,8 @@ title: Program Alumni
 description: >-
 keywords: 'affiliated centers, research, projects'
 # custom variables
-sidebar: false
-graduate_students: true
-graduate_students_content: graduate_students2.html
+
+
+graduate_students: graduate_students2.html
 ---
 {% include {{ page.graduate_students_content }} %}

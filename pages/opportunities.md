@@ -8,7 +8,7 @@ title: Opportunities
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
+
 ---
 ## Internships
 - [The Pennsylvania Capital Semester](https://develop.cla.temple.edu/institute-for-public-affairs/the-pennsylvania-capital-semester/)
