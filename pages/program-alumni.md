@@ -12,4 +12,4 @@ keywords: 'affiliated centers, research, projects'
 
 graduate_students: graduate_students2.html
 ---
-{% include {{ page.graduate_students_content }} %}
+{% include {{ page.graduate_students }} %}
