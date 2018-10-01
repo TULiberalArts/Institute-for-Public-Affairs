@@ -11,7 +11,7 @@ promotion-table: true
 feature: true
 feature-title: >-
   Institute for Public Affairs
-feature-image: 
+feature-image: media/ipa_hero_new.png
 feature-body: >-
 ---
 ![Philly Skyline]({{site.baseurl}}/media/philly_skyline120.jpeg){:.responsive-img .img-right}
