@@ -1,12 +1,13 @@
 ---
 # Program/Department Title
 title: Institute for Public Affairs
+# url spits sitemap
+url: https://www.cla.temple.edu/institute-for-public-affairs
 # Subdirectory (with / at only at beginning)
 baseurl: /institute-for-public-affairs
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-# url spits sitemap
-url: https://www.cla.temple.edu/institute-for-public-affairs
+
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
@@ -42,11 +43,11 @@ program_news: https://liberalarts.temple.edu/news/institute-for-public-affairs
 program_events: https://events.temple.edu/department/institute-for-public-affairs
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
+news-feed: https://liberalarts.temple.edu/news/africology-and-african-american-studies/csv
 events-feed: https://liberalarts.temple.edu/events/institute-for-public-affairs/csv
-news-feed: https://liberalarts.temple.edu/news/institute-for-public-affairs/csv
-articles-feed: https://liberalarts.temple.edu/articles/institute-for-public-affairs/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/institute-for-public-affairs/csv
-media-mentions-feed: https://liberalarts.temple.edu/media-mentions/institute-for-public-affairs/csv
+#articles-feed: https://liberalarts.temple.edu/articles/institute-for-public-affairs/csv
+#media-mentions-feed: https://liberalarts.temple.edu/media-mentions/institute-for-public-affairs/csv
 
 # Social Media
 # Put in only the username unless otherwise noted
