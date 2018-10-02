@@ -2,17 +2,15 @@
 # global predefined variables
 layout: tla_home
 permalink: /
-published: true
+published: TRUE
 # meta-data variables
 title: Home
 # custom variables
-promotion-table: true
-
-feature: true
+promotion-table: TRUE
+feature: TRUE
 feature-title: >-
   Institute for Public Affairs
 feature-image: media/ipa_hero_new.png
-feature-body: >-
 ---
 ![Philly Skyline]({{site.baseurl}}/media/philly_skyline120.jpeg){:.responsive-img .img-right}
 ## Mission
