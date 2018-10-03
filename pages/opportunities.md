@@ -11,6 +11,7 @@ keywords: ''
 
 ---
 ## Internships
+![Lt Gov Stack and Interns]({{site.baseurl}}/media/resized_ltgovstack_interns.jpg){:.responsive-img .img-right}
 - [The Pennsylvania Capital Semester](https://develop.cla.temple.edu/institute-for-public-affairs/the-pennsylvania-capital-semester/)
 - [The Washington Semester](https://develop.cla.temple.edu/institute-for-public-affairs/the-washington-semester/)
 - [White House Internship Program](https://www.whitehouse.gov/participate/internships)
