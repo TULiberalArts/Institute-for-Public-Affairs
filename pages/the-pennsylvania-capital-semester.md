@@ -44,6 +44,7 @@ All interested students must complete an application, including a resume, transc
 - Temple tuition rates for full-time students per semester currently stand at $8,040 for in-state students, and $14,088 for out-of-state. On a per credit basis, tuition is $670 for in-state students, and $1,174 for out-of-state. These rates are for the 2018-19 school year.
 
 ## Academic Program
+![Margaret and Rep Stern]({{site.baseurl}}/media/resized_margaret_stern.png){:.responsive-img .img-right}
 The full semester consists of the internship of 3-9 credits (generally 10 to 30 hours of internship experience) an internship seminar (3 credits) and State Politics and Policy (3 credits). Both are political science courses. Most students take 9 credits of an internship, plus the two courses, for a full semester of 15 credits. Students can also sign up for an additional course, or courses, in their respective departments, most likely online or independent study.
 
 **PS 2107: Internship Seminar: Public-Private Cooperation in Public Policymaking and Program Implementation.** This course includes strategies for getting the most out of an internship, a context for the internship experience –the basic interactions between the public and private sectors at the state and local level, a special focus on interaction between the state executive branch; legislature and the legislative process; nonprofits, advocacy organizations, lobbying or trade associations; and local economic development organizations. The syllabus will include a block of instruction on public policy analysis, and students will complete a policy analysis project related to their internships. 
@@ -51,6 +52,7 @@ The full semester consists of the internship of 3-9 credits (generally 10 to 30 
 **PS 3550: State Politics and Policy.** This course examines the institutions, politics and policy making of American state governments with special emphasis on the Commonwealth of PA. It also examines the state’s special place in the structure of American federalism and how this has changed over time, and explores why state governments often produce different solutions to similar problems. **This course counts as a pre-capstone in political science.** 
 
 ## Housing and Transportation
+![Lt Gov Cawley and 2014 Interns]({{site.baseurl}}/media/resized_ltgovcawley_templeinterns_2014.jpg){:.responsive-img .img-right}
 The academic program will run on a Monday through Thursday schedule, allowing students ample time to travel back and forth between Philadelphia and Harrisburg, if need be. Some internships might require students to be in Harrisburg on Fridays.
 
 Temple can arrange housing at the International House in downtown Harrisburg (within three blocks of the Capitol and Temple Harrisburg). - [General information](http://www.ihousehbg.org/)
