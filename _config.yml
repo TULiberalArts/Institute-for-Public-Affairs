@@ -46,8 +46,8 @@ program_events: https://events.temple.edu/department/institute-for-public-affair
 news-feed: https://liberalarts.temple.edu/news/institute-for-public-affairs/csv
 events-feed: https://liberalarts.temple.edu/events/institute-for-public-affairs/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/institute-for-public-affairs/csv
-#articles-feed: https://liberalarts.temple.edu/articles/institute-for-public-affairs/csv
-#media-mentions-feed: https://liberalarts.temple.edu/media-mentions/institute-for-public-affairs/csv
+articles-feed: https://liberalarts.temple.edu/articles/institute-for-public-affairs/csv
+media-mentions-feed: https://liberalarts.temple.edu/media-mentions/institute-for-public-affairs/csv
 
 # Social Media
 # Put in only the username unless otherwise noted
