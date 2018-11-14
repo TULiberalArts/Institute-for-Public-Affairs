@@ -7,7 +7,7 @@ url: https://www.cla.temple.edu/institute-for-public-affairs
 baseurl: /institute-for-public-affairs
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-faculty-page: http://www.cla.temple.edu/institute-for-public-affairs/staff/
+faculty-page: /staff/
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
