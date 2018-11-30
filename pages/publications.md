@@ -107,6 +107,9 @@ The Temple Papers on the Pennsylvania General Assembly Volume V: [Literature Rev
 
 ___
 
+**Temple University’s Institute for Public Affairs, Temple University’s Metropolitan Philadelphia Indicators Project**
+[Why the Conventional Wisdom about Reapportionment Reform May Be Wrong: The Case of Safe and Competitive State Senate Districts in Southeastern Pennsylvania](https://drive.google.com/file/d/13tnVUlFjlapBIJ6cqwOajWvNYiLzGMXv/view?usp=sharing) 
+
 **Joseph P. McLaughlin**<br>
 Presentation: [The Pennsylvania General Assembly Before and After the 1968 Legislative Modernization Commission: A Brief History](https://drive.google.com/file/d/1s3gPsN7tRJ3bZHO7zMBJWFwDYr1N3lLO/view?usp=sharing)<br>
 
