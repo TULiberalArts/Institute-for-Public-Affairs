@@ -9,5 +9,4 @@ description: >-
 keywords: 'public affairs, staff'
 # custom variables
 faculty: profiles/faculty.html
-
 ---
