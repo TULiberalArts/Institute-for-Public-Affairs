@@ -6,7 +6,7 @@
         {% capture news_link %}
         {{ site.program_news }}
         {% endcapture %}
-          {% include cards/card2-basic.html color="black" title="News" content="We are daring, ambitious, creative thinkers. Simultaneously civic-minded and globally conscious, our students and faculty are engaged in the community and care about our world." button-link="https://liberalarts.temple.edu/news" button-text="Read Our Stories" %}
+          {% include cards/card2-basic.html color="black" title="News" content="The Institute for Public Affairs is housed within Temple’s College of Liberal Arts. Learn more about our news and those of other college programs and projects." button-link="https://liberalarts.temple.edu/news" button-text="Read Our Stories" %}
         {% else %}
           <h2>Recent News</h2>
           {% for item in site.data.news limit:4 %}
@@ -24,7 +24,7 @@
         {% capture events_link %}
         {{ site.program_events }}
         {% endcapture %}
-          {% include cards/card2-basic.html color="black" title="Events" content="From lectures, to film screenings, to networking opportunities with some of the region's biggest employers, events at the College of Liberal Arts are designed to support your life's work." button-link="https://events.temple.edu/department/college-of-liberal-arts" button-text="View Events" %}
+          {% include cards/card2-basic.html color="black" title="Events" content="Learn more about events organized by the Institute for Public Affairs and other departments and centers within Temple’s College of Liberal Arts." button-link="https://events.temple.edu/department/college-of-liberal-arts" button-text="View Events" %}
         {% else %}
           <h2>Upcoming Events</h2>
           {% for item in site.data.events limit:4 %}
