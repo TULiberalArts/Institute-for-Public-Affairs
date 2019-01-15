@@ -100,7 +100,7 @@ _Interested students should note **summer programs** are very popular, and more 
 - **Students should forward all materials except the application form to the campus liaison for approval before applying online.** 
 - The transcript and letters of recommendation will be forwarded by the liaison to TWC on the student’s behalf. Students accepted by Temple into the program will receive a code to enter in order to waive TWC’s application fee.
 
-### The Washingtom Semester Written Materials
+### The Washington Semester Written Materials
 
 **The personal statement**
 
