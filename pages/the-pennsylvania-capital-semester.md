@@ -31,7 +31,7 @@ ___
 - Take a look at the essential [Guide to Interning in Harrisburg](https://drive.google.com/file/d/1zMMRXJMMuxNqvfJ-wR6CCuM5mcloWKs_/view?usp=sharing) to get an idea of life as an intern in the program.
 - Enrollment in the program includes a **$1500 award** to Temple students to be received after the first three weeks of the internship.
 - Students who enroll for the Spring and Fall 2019 semesters will receive an additional **$500** stipend from Temple Harrisburg, for a total stipend of **$2000**.
-- Read more about **[past students](https://develop.cla.temple.edu/institute-for-public-affairs/program-alumni/)** in the program.
+- _Read more about **[past students](https://develop.cla.temple.edu/institute-for-public-affairs/program-alumni/)** in the program_.
 
 ## Requirements and Application
 ![Interns President Engle and Sen Street]({{site.baseurl}}/media/resized2internswithpresenglertandsenstreet.jpg){:.responsive-img .img-right}
