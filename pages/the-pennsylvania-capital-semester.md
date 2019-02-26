@@ -34,6 +34,7 @@ ___
 - Read more about **[past students](https://develop.cla.temple.edu/institute-for-public-affairs/program-alumni/)** in the program.
 
 ## Requirements and Application
+![Interns President Engle and Sen Street]({{site.baseurl}}/media/resizedinternswithpresenglertandsenstreet.jpg){:.responsive-img .img-right}
 - Students must be juniors or seniors by the beginning of the internship semester and possess a minimum 3.0 GPA.
 - Applicants must complete PS 1101, The American Political System, or a course judged equivalent, before starting the internship semester.
 All interested students must complete an application, including a resume, transcript, writing sample and two faculty recommendations (form available [here](https://docs.google.com/document/d/1ULfDrZ5RweRBaMEZwyQppN-a-LV9uLxG5CH4EMnjoxg/edit?usp=sharing)).
