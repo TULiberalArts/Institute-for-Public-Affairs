@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page
 permalink: /opportunities/
-published: true
+published: false
 # meta-data variables
 title: Opportunities
 description: >-
