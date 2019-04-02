@@ -70,7 +70,7 @@ Introduction to Criminal Law and Criminal Procedure<br>
 ## The LEAD Colloquium
 Every Friday, students meet as part of the LEAD Colloquium to hear guest speakers, including such past guests as Secretary Madeleine Albright and Bob Schieffer (of Face the Nation), attend public policy dialogues, work on civic engagement projects or other activities, and complete an internship portfolio. The portfolio includes a week by week analysis of the internship program and results in a final project on the internship experience as a whole completed by the student. You can read extended information on [TWC’s LEAD component](http://www.twc.edu/internships/washington-dc-programs/internship-experience/LEAD-colloquium). This portion of the program is three credits.
 
-Accepted students are then registered in:
+Accepted students then register for:
 
 - CLA 2785 – The Washington Center Internship, 9 credits
 - CLA 2701 – The Washington Center Seminar, 3 credits
