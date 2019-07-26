@@ -15,6 +15,7 @@ _**[Commonwealth: A Journal of Pennsylvania Politics and Policy archives](http:/
 
 - **Center on Regional Politics Policy Brief**
 [January 30, 2019: A Tale of Haves and Have-Nots: The Financial Future of Pennsylvania School Districts](https://drive.google.com/file/d/19erkTTHN9JJ2ABuFtl9PfSK5plG93WSK/view?usp=sharing)
+[Alternate Link for Download](https://liberalarts.temple.edu/file/19391/download?token=OX_dbenf)
 
 - **Center on Regional Politics Research at a Glance**
 [Explaining School Fund Balances – Are PA Schools Holding Too Much in Reserve?](https://drive.google.com/file/d/1ZctL5C6Q3eyXMcQ87OD-Y5d7eGOUKS6z/view?usp=sharing) 
