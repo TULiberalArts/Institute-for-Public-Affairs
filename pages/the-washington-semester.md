@@ -127,6 +127,8 @@ Associate Director<br>
 [mjather@temple.edu](mailto:mjather@temple.edu)**<br>
 
 ## Important Dates:
-- **Spring 2019 application deadlines: Priority: October 10, 2018; Regular: November 7, 2018**
-- **Summer 2019 application deadlines: Priority: February 13, 2019; Regular application period March 6, 2019**
-- **Fall 2019 application deadlines: Priority: April 10, 2019; Regular: May 8, 2019**
+- **Spring 2020 application deadlines: Early: October 2, 2019; Regular: October 31, 2019**
+- **Summer 2020 application deadlines: Early: February 12, 2020; Regular: March 12, 2020**
+- **Fall 2020 application deadlines: Early: April 1, 2020; Regular: April 30, 2020**
+
+Applying by the early deadline is encouraged for greater chances at securing additional financial aid, and for internship positions requiring security clearances, such as international affairs, law enforcement, and embassies.
