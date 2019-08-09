@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: tla_page
+layout: tla_page_test
 permalink: /the-washington-semester/
 published: true
 # meta-data variables
