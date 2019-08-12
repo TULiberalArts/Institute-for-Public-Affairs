@@ -29,7 +29,7 @@ ___
 - Some internships are paid, but some are not. The state has suspended most paid internships, but there are some available according to office placement.
 - Depending on placement, interns will work on specific legislation, legislative analysis, constituent service, policy research, organizing meetings, public relations, grassroots campaigns, special events, press releases, writing newsletters, economic development projects, writing news stories, reporting on legislative hearings, lobbying, advocacy for particular policies/groups, information systems or web design & maintenance, or placement in the Capitol newsroom.
 - Internships might involve outside activities, such as fundraisers, press conferences, receptions and other special events.
-- Take a look at the essential [Guide to Interning in Harrisburg](https://drive.google.com/file/d/1zMMRXJMMuxNqvfJ-wR6CCuM5mcloWKs_/view?usp=sharing) to get an idea of life as an intern in the program.
+- Take a look at the essential [Guide to Interning in Harrisburg](https://drive.google.com/file/d/1xUkFempmacoC7oAK95wD43aIZmNi_11k/view?usp=sharing) to get an idea of life as an intern in the program.
 - Enrollment in the program includes a **$1500 award** to Temple students to be received after the first three weeks of the internship.
 - Students who enroll in the Fall 2019 and Spring 2020 semesters will receive an additional **$500** stipend from Temple Harrisburg, for a total stipend of **$2000**.
 - _Read more about **[past students](https://develop.cla.temple.edu/institute-for-public-affairs/program-alumni/)** in the program_.
