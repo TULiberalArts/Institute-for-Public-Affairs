@@ -14,83 +14,81 @@ keywords: 'public policy, research, publications'
 _**[Commonwealth: A Journal of Pennsylvania Politics and Policy archives](http://sites.temple.edu/commonwealth/) are hosted by the Institute for Public Affairs.**_.
 
 - **Center on Regional Politics Policy Brief**
-[January 30, 2019: A Tale of Haves and Have-Nots: The Financial Future of Pennsylvania School Districts](https://drive.google.com/file/d/19erkTTHN9JJ2ABuFtl9PfSK5plG93WSK/view?usp=sharing)
-|
-[Alternate Link for Download](https://liberalarts.temple.edu/file/19391/download?token=OX_dbenf)
+[January 30, 2019: A Tale of Haves and Have-Nots: The Financial Future of Pennsylvania School Districts](https://sites.temple.edu/corparchives/files/2019/08/Haves-and-Have-Nots-2019-web.pdf)
 
 - **Center on Regional Politics Research at a Glance**
-[Explaining School Fund Balances – Are PA Schools Holding Too Much in Reserve?](https://drive.google.com/file/d/1ZctL5C6Q3eyXMcQ87OD-Y5d7eGOUKS6z/view?usp=sharing) 
+[Explaining School Fund Balances – Are PA Schools Holding Too Much in Reserve?](https://sites.temple.edu/corparchives/files/2019/08/Fund-Balances-Update-2018-at-a-Glance.pdf) 
 
 - **Center on Regional Politics Policy Brief – David W. Davare**
-[Explaining School Fund Balances: Are PA Schools, with a $4.9 Billion Fund Balance, Holding Too Much in Reserve? An Update for FY 2016-17](https://drive.google.com/file/d/1H267G_VVNeYS3C2A4NFtQ8YkFI9Yb7S1/view?usp=sharing)
+[Explaining School Fund Balances: Are PA Schools, with a $4.9 Billion Fund Balance, Holding Too Much in Reserve? An Update for FY 2016-17](https://sites.temple.edu/corparchives/files/2019/08/Fund-Balance-Update-2018-web.pdf)
 
 - **Center on Regional Politics Research at a Glance**
-[Hard Choices Still Ahead: The Financial Future of Pennsylvania School Districts | March 2017](https://drive.google.com/file/d/1obl2xySt36aRv_0utxp1sAAEHB2KtHNi/view?usp=sharing)
+[Hard Choices Still Ahead: The Financial Future of Pennsylvania School Districts | March 2017](https://sites.temple.edu/corparchives/files/2019/08/Fiscal-Forecast-Update-at-a-Glance.pdf)
 
 - **Center on Regional Politics Policy Brief – William Hartman and Timothy Shrom**
-[Hard Choices Still Ahead: The Financial Future of Pennsylvania School Districts | March 2017](https://drive.google.com/file/d/1zaZXBni-DjXmypKth5GdApSd_jMzHkug/view?usp=sharing)
+[Hard Choices Still Ahead: The Financial Future of Pennsylvania School Districts | March 2017](https://sites.temple.edu/corparchives/files/2019/08/Fiscal-Outlook-2017-Update-Policy-Brief.pdf)
 
 - **Center on Regional Politics Research at a Glance**
-[Explaining School Fund Balances – Are PA Schools Really Flush? | July 2016](https://drive.google.com/file/d/12waKBvNyqBi8PdZZf7p086fqnQMME8x6/view?usp=sharing)
+[Explaining School Fund Balances – Are PA Schools Really Flush? | July 2016](https://sites.temple.edu/corparchives/files/2019/08/7-16-Fund-Balances-Update-at-a-Glance-Web.pdf)
 
 - **Center on Regional Politics Policy Brief – David W. Davare**
-[Explaining School Fund Balances: An Update | July 2016](https://drive.google.com/file/d/1Yc91loauhaB34jfLnfTPTvx1tSQJmAZy/view?usp=sharing)
+[Explaining School Fund Balances: An Update | July 2016](https://sites.temple.edu/corparchives/files/2019/08/7-16update-Fund-Balance-Update-Policy-Brief-Web.pdf)
 
 - **Center on Regional Politics Issue Memo**
-[The Problem of Funding Pensions: An Update](https://drive.google.com/file/d/1cFp6jh-aKHUNjTHU7LHeoul-QpBuCezw/view?usp=sharing)
+[The Problem of Funding Pensions: An Update](https://sites.temple.edu/corparchives/files/2019/08/Pension-Update-Memo-June-2016.pdf)
 
 - **Center on Regional Politics Research at a Glance**
 [How Well Does Philadelphia Support its Public Schools? A New Perspective](https://drive.google.com/file/d/1CjS29VjAswK5Sn8NZ83hr-Iaspxodm0G/view?usp=sharing)
 
 - **Center on Regional Politics Policy Brief – Joseph P. McLaughlin, Jr. and Meghan E. Rubado**
-[How Well Does Philadelphia Support its Public Schools? A New Perspective](https://drive.google.com/file/d/1cM7SGNARyEdsI0WJNSpOpLNXl2-5yhJ2/view?usp=sharing)
+[How Well Does Philadelphia Support its Public Schools? A New Perspective](https://sites.temple.edu/corparchives/files/2019/08/2Tax-Effort-Philly-Web.pdf)
 
 - **Center on Regional Politics Sponsored Report**
-[RAND Corporation Research Report: The Economic Impact of Achievement Gaps in Pennsylvania’s Public Schools](https://drive.google.com/file/d/1Q-EDw65IPZWCtxcZV_5kYLE2_zKUWkDg/view?usp=sharing)
+[RAND Corporation Research Report: The Economic Impact of Achievement Gaps in Pennsylvania’s Public Schools](https://sites.temple.edu/corparchives/files/2019/08/RAND_Econ-Impact-of-Achievement-Gaps-Web-1.pdf)
 - [See the RAND Corporation Report, Abstract, Key Findings, and Technical Details](http://www.rand.org/pubs/research_reports/RR1159.html)
 - [RAND Corporation Research Brief](http://www.rand.org/pubs/research_briefs/RB9872.html)
 
 - **Center on Regional Politics Policy Brief – Dave Davare**
-[Explaining School Fund Balances: An Update](https://drive.google.com/file/d/1GB0r2SpfHkixIUstWZ3csoN77K_Cp-yI/view?usp=sharing) | [Data on School Fund Balances for PA’s 500 Districts](https://drive.google.com/file/d/1JDA7liQEHm5A0YL10ob2_6Wm6iyQohas/view?usp=sharing)
+[Explaining School Fund Balances: An Update](https://sites.temple.edu/corparchives/files/2019/08/Fund-Balance-Update-2017.pdf) | [Data on School Fund Balances for PA’s 500 Districts](https://sites.temple.edu/corparchives/files/2019/08/2013-14-and-2012-13-FB.xlsx)
 
 - **Center on Regional Politics Policy Brief – William Hartman and Timothy Shrom**
-[Forecasting Fiscal Futures of Pennsylvania School Districts: Where Law and Current Policy Are Taking Our Public Schools](https://drive.google.com/file/d/180NkZf5sRO8NkwUTefaR1C949yh9lCKj/view?usp=sharing)
+[Forecasting Fiscal Futures of Pennsylvania School Districts: Where Law and Current Policy Are Taking Our Public Schools](https://sites.temple.edu/corparchives/files/2019/08/Fiscal-Futures-Hartman-Shrom-Web.pdf)
 
 - **Center on Regional Politics Policy Brief** 
-[Understanding Measures of Tax Effort and Tax Capacity](https://drive.google.com/file/d/1J9HqHG0pyy6xp3RSU2B26aQZDS7ZR12d/view?usp=sharing) | [Data on tax effort and capacity](https://drive.google.com/file/d/11f7P_i-lAjJR415Q-7uS5L6QBnANLF5_/view?usp=sharing)
+[Understanding Measures of Tax Effort and Tax Capacity](https://sites.temple.edu/corparchives/files/2019/08/Tax-Effort-and-Capacity-Brief-Web.pdf) | [Data on tax effort and capacity](https://sites.temple.edu/corparchives/files/2019/08/CapacityEffortMHIindex.xlsx)
 
 - **Center on Regional Politics Policy Brief – J. Wesley Leckrone**
-[The Politics of Educational Change: What Can We Learn from the School Consolidation Acts of 1961 and 1963](https://drive.google.com/file/d/1zpqVE9KIDHguMG7mAysKObYtgH6ysc04/view?usp=sharing)
+[The Politics of Educational Change: What Can We Learn from the School Consolidation Acts of 1961 and 1963](https://sites.temple.edu/corparchives/files/2019/08/School-Consolidation-Leckrone-web.pdf)
 
 - **Center on Regional Politics Policy Brief – Michelle J. Atherton and Meghan E. Rubado**
-[Hold Harmless Education Finance Policies in the U.S.: A Survey](https://drive.google.com/file/d/1yr_wtX9fThOPxUOqNvGMeAq58A2TD9eb/view?usp=sharing)
+[Hold Harmless Education Finance Policies in the U.S.: A Survey](https://sites.temple.edu/corparchives/files/2019/08/HH-Policies-Policy-Brief.pdf)
 
 - **Center on Regional Politics Policy Brief – Eileen McNulty**
-[Growth and Stability in Public School Revenue Sources: Can We Have Both?](https://drive.google.com/file/d/1ZTnsYqHYIPMTzLCSugJqR4tzEo-oAYqI/view?usp=sharing)
+[Growth and Stability in Public School Revenue Sources: Can We Have Both?](https://sites.temple.edu/corparchives/files/2019/08/Policy-Brief-2-Web.pdf)
 
 - **Center on Regional Politics Policy Brief – Dave Davare**
-[Explaining School Fund Balances: Are PA Schools, with $4.3 Billion in Reserve Funds, Really Flush? Just the (Dry) Facts](https://drive.google.com/file/d/1PkR0BfLgIjDEYf7lqGl_AVfHHMJqZQLE/view?usp=sharing)
+[Explaining School Fund Balances: Are PA Schools, with $4.3 Billion in Reserve Funds, Really Flush? Just the (Dry) Facts](https://sites.temple.edu/corparchives/files/2019/08/Policy-Brief-Fund-Balances-1-1.pdf)
 
 - **Center on Regional Politics Commentary – Joseph P. McLaughlin**
-[What Can We Learn from Pennsylvania’s History of Public Schools Finance?](https://drive.google.com/file/d/1nxcWCvrJc2fI-kdm9q9_3bxFdAolBIE_/view?usp=sharing)
+[What Can We Learn from Pennsylvania’s History of Public Schools Finance?](https://sites.temple.edu/corparchives/files/2019/08/Commentary-May-2014.pdf)
 
 - **Center on Regional Politics Issue Memo – Eileen McNulty**
-[How Pennsylvania Funds Public Schools: The Story of the Local Share](https://drive.google.com/file/d/1s0B56JWemrN4vk7RbtDGS8Lp1KBfITWa/view?usp=sharing)
+[How Pennsylvania Funds Public Schools: The Story of the Local Share](https://sites.temple.edu/corparchives/files/2019/08/Local-Share-Issue-Memo.pdf)
 
 - **Center on Regional Politics Issue Memo – Michelle J. Atherton**
-[How Pennsylvania Funds Public Schools: The Story of the State Share](https://drive.google.com/file/d/1eLLFLAipIN92uIG1rRAbnMp9Hh-6Df25/view?usp=sharing)
+[How Pennsylvania Funds Public Schools: The Story of the State Share](https://sites.temple.edu/corparchives/files/2019/08/State-Share-Issue-Memo.pdf)
 
 - **Center on Regional Politics Commentary – Joseph P. McLaughlin**
-[How to Fund Schools and Public Pensions](https://drive.google.com/file/d/1EAQ93kubSfoFGYirxZATtN8YuWeiMrQ0/view?usp=sharing)
+[How to Fund Schools and Public Pensions](https://sites.temple.edu/corparchives/files/2019/08/Commentary-August-21-2013.pdf)
 
 - **Center on Regional Politics**
-[June 2013 Pension Working Group Report](https://drive.google.com/file/d/1lqE8e4wPKcid8bMffXp1C3caTcjMEboZ/view?usp=sharing)
+[June 2013 Pension Working Group Report](https://sites.temple.edu/corparchives/files/2019/08/Pension-Working-Group-Report-June-2013.pdf)
 
 - **Center on Regional Politics Case History – Patrick Kerkstra**
-[Taking Care of Our Own: How Democrats, Republicans, Business and Labor Saved Thousands of Jobs and Our Refineries](https://drive.google.com/file/d/1l8zk7iL_x5Cu8_DOCoIJx4zfTCbDOdYs/view?usp=sharing)
+[Taking Care of Our Own: How Democrats, Republicans, Business and Labor Saved Thousands of Jobs and Our Refineries](https://sites.temple.edu/corparchives/files/2019/08/Refinery-story-011113.pdf)
 
 - **Center on Regional Politics Issue Memo**
-[The Problem of Funding Pensions: September 2012](https://drive.google.com/file/d/1kX2bSP687xIZJeESYX8j5kP5HQ7TOI__/view?usp=sharing)
+[The Problem of Funding Pensions: September 2012](https://sites.temple.edu/corparchives/files/2019/08/IssueMemoPublicPensionsWebVersion0924122.pdf)
 
 ___
 
