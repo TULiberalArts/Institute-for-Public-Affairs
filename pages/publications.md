@@ -94,42 +94,42 @@ ___
 
 ### The Temple Papers on the Pennsylvania General Assembly – Five Volumes
 **I. Joseph P. McLaughlin**<br>
-The Temple Papers on the Pennsylvania General Assembly Volume I: [The Pennsylvania General Assembly Before and After the 1968 Legislative Modernization Commission: The Evolution of an Institution](https://drive.google.com/file/d/1YS1O7JlAmriq4m0I7isnFBkb4MqG1ZdJ/view?usp=sharing)<br>
+The Temple Papers on the Pennsylvania General Assembly Volume I: [The Pennsylvania General Assembly Before and After the 1968 Legislative Modernization Commission: The Evolution of an Institution](https://sites.temple.edu/corparchives/files/2019/08/Volume-I-The-Temple-Papers-on-the-PA-General-Assembly-March-2012.pdf)<br>
 
 **II. Van Huynh, Shelly Forrester, Michelle J. Atherton, Mike Cassidy, and Joseph P. McLaughlin**<br>
-The Temple Papers on the Pennsylvania General Assembly Volume II: [The Pennsylvania General Assembly’s Greatest Achievements AND The Parties’ Roles in Enacting Important Laws 1968-2008](https://drive.google.com/file/d/11fChKfS4ir_rtENCpMuSZl0mjU62qVeN/view?usp=sharing)<br>
+The Temple Papers on the Pennsylvania General Assembly Volume II: [The Pennsylvania General Assembly’s Greatest Achievements AND The Parties’ Roles in Enacting Important Laws 1968-2008](https://sites.temple.edu/corparchives/files/2019/08/Volume-II-The-Temple-Papers-on-the-PA-General-Assembly-March-2012.pdf)<br>
 
 **III. John P. Krill, Jr., Michael R. Dimino, Sr., and Michelle J. Atherton**<br>
-The Temple Papers on the Pennsylvania General Assembly Volume III: [The Rules of the Game: How the Constitution Affects Lawmaking in Pennsylvania](https://drive.google.com/file/d/1APy1YMHxnryKtGbwjEB2tUV4vcUnsRxr/view?usp=sharing)<br>
+The Temple Papers on the Pennsylvania General Assembly Volume III: [The Rules of the Game: How the Constitution Affects Lawmaking in Pennsylvania](https://sites.temple.edu/corparchives/files/2019/08/VolumeIIITheTemplePapersonthePAGeneralAssemblyApril2012.pdf)<br>
 
 **IV. Richard A. Stafford, Joseph P. McLaughlin, Michelle J. Atherton, Megan Mullin, and Nathan Shrader**<br>
-The Temple Papers on the Pennsylvania General Assembly Volume IV: [A Discussion of Topics Related to the Continuing Evolution of the Pennsylvania General Assembly](https://drive.google.com/file/d/1XKJ0VF0fGbEo0LZO5DPG1CRcB6vt7lhL/view?usp=sharing)<br>
+The Temple Papers on the Pennsylvania General Assembly Volume IV: [A Discussion of Topics Related to the Continuing Evolution of the Pennsylvania General Assembly](https://sites.temple.edu/corparchives/files/2019/08/TheTemplePapersonthePAGeneralAssemblyVolIVJune2012.pdf)<br>
 
 **V. Megan Mullin**<br>
-The Temple Papers on the Pennsylvania General Assembly Volume V: [Literature Review: Findings from Academic Research on  State Government Institutions and Reforms](https://drive.google.com/file/d/1e-bzvDEG_-dyMcJGcWC5Q_b086SrJCZb/view?usp=sharing)<br>
+The Temple Papers on the Pennsylvania General Assembly Volume V: [Literature Review: Findings from Academic Research on  State Government Institutions and Reforms](https://sites.temple.edu/corparchives/files/2019/08/TheTemplePapersonthePAGeneralAssemblyVolume5June2012-1.pdf)<br>
 
 ___
 
 **Temple University’s Institute for Public Affairs, Temple University’s Metropolitan Philadelphia Indicators Project**
-[Why the Conventional Wisdom about Reapportionment Reform May Be Wrong: The Case of Safe and Competitive State Senate Districts in Southeastern Pennsylvania](https://drive.google.com/file/d/13tnVUlFjlapBIJ6cqwOajWvNYiLzGMXv/view?usp=sharing) 
+[Why the Conventional Wisdom about Reapportionment Reform May Be Wrong: The Case of Safe and Competitive State Senate Districts in Southeastern Pennsylvania](https://sites.temple.edu/corparchives/files/2019/08/Policy_Report_on_Reapportionment_November_2011-1.pdf) 
 
 **Joseph P. McLaughlin**<br>
-Presentation: [The Pennsylvania General Assembly Before and After the 1968 Legislative Modernization Commission: A Brief History](https://drive.google.com/file/d/1s3gPsN7tRJ3bZHO7zMBJWFwDYr1N3lLO/view?usp=sharing)<br>
+Presentation: [The Pennsylvania General Assembly Before and After the 1968 Legislative Modernization Commission: A Brief History](https://sites.temple.edu/corparchives/files/2019/08/The_PA_GeneralAssemblyBeforeandAfterModernization02282011.pptx)<br>
 
 **Joseph P. McLaughlin**<br>
-The Temple Municipal Governance Survey: [How Pennsylvanians View Their Local Governments, including comments on the results of Allegheny County’s Deliberative Democracy Poll](https://drive.google.com/file/d/1w20Qci4hD9fHL_mHrL0PrXxw96rLsFIv/view?usp=sharing)<br>
+The Temple Municipal Governance Survey: [How Pennsylvanians View Their Local Governments, including comments on the results of Allegheny County’s Deliberative Democracy Poll](https://sites.temple.edu/corparchives/files/2019/08/TempleMunicipalGovernanceSurvey120210.pdf)<br>
 
 **Joseph P. McLaughlin, Michelle J. Atherton, and Katrina Morrison**<br>
-[Legislative Approaches to Right-Sizing Municipal Services](https://drive.google.com/file/d/10Ehx2o9ydfYBAeIV3T-oMs-alzN_oCPE/view?usp=sharing)<br>
+[Legislative Approaches to Right-Sizing Municipal Services](https://sites.temple.edu/corparchives/files/2019/08/LegislativeApproachestoRightSizingMunicipalServices-5.pdf)<br>
 
 **Joseph Bafumi, Robert S. Erikson and Christopher Wlezien**<br>
-[Ideological Balancing, Generic Polls and Midterms Congressional Elections](https://drive.google.com/file/d/1AEmZ-27H-A67c_8boRp7a_FnnllI5YoU/view?usp=sharing)<br>
+[Ideological Balancing, Generic Polls and Midterms Congressional Elections](https://sites.temple.edu/corparchives/files/2019/08/Bafumi-Erikson-Wlezien-Midterm-Elections.pdf)<br>
 
 **Robert S. Erikson and Christopher Wlezien**<br>
-[Are Political Markets Really Superior to Polls as Election Predictors?](https://drive.google.com/file/d/1-hgDA3svf1Zxy_j86VI9sZ8gsOPIf5N4/view?usp=sharing)<br>
+[Are Political Markets Really Superior to Polls as Election Predictors?](https://sites.temple.edu/corparchives/files/2019/08/Erikson-and-Wlezien-WAPOR-2005.pdf)<br>
 
 **Joseph Bafumi, Robert S. Erikson and Christopher Wlezien**<br>
-[Forecasting House Seats from Generic Congressional Polls](https://drive.google.com/file/d/1hxRulgiwr5DVA6lY6kZdukK6snT5ZT_T/view?usp=sharing)<br>
+[Forecasting House Seats from Generic Congressional Polls](https://sites.temple.edu/corparchives/files/2019/08/Forecasting-House-Seats-from-Generic-Congressional-Polls.pdf)<br>
 
 **David Elesh**<br>
-[Is City Population Growth Always Good and Loss Bad?](https://drive.google.com/file/d/1-pSaZUKi4CrsiAyyVzx-zS40g9bohoh7/view?usp=sharing)<br>
+[Is City Population Growth Always Good and Loss Bad?](https://sites.temple.edu/corparchives/files/2019/08/EleshPopChange.pdf)<br>
