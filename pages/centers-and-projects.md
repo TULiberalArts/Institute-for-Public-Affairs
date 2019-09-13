@@ -8,7 +8,7 @@ title: Centers and Projects
 description: >-
 keywords: 'affiliated centers, research, projects'
 # custom variables
-
+sidebar: sidebars/pa-capital-semester.html
 ---
 ![CORP]({{site.baseurl}}/media/CORP.jpeg){:.responsive-img .img-right}
 ## The Center on Regional Politics
