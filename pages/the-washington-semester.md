@@ -8,7 +8,7 @@ title: The Washington Semester
 description: >-
 keywords: 'washington semester, city hall, research, undergraduate, internship'
 # custom variables
-
+sidebar: sidebars/pa-capital-semester.html
 ---
 ![The Washington Semester]({{site.baseurl}}/media/resized Washington-Semester.jpg){:.responsive-img .img-right}
 ## The Washington Semester
