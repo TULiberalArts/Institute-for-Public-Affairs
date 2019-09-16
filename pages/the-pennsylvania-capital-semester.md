@@ -8,7 +8,6 @@ title: The Pennsylvania Capital Semester
 description: >-
 keywords: 'pa capital semester, city hall, research, undergraduate, internship'
 # custom variables
-
 sidebar: sidebars/pa-capital-semester.html
 ---
 ## The Pennsylvania Capital Semester
