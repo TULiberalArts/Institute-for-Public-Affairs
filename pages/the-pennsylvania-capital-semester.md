@@ -21,7 +21,7 @@ ___
 ___
 
 ## The Internship
-![Interns with Lt Gov]({{site.baseurl}}/media/resized2internswithltgov2019.png){:.responsive-img .img-right}
+![Interns with Lt Gov]({{site.baseurl}}/media/resized2019lut_govwithstudents.jpg){:.responsive-img .img-center}
 - This program is open to students of any major and college at Temple University as well as students of other colleges or universities, and is modeled on a study abroad placement. Students will experience total immersion in state institutions and state politics in Harrisburg.
 - Past students in the program were majors in: Economics, Finance, Social Work, Public Relations, Journalism, Broadcast Journalism, Criminal Justice, Sociology, Philosophy, and Political Science, but students from any major can apply.
 - Placements include executive branch agencies, the state legislature, and government related private and non-profit employers. Placements are also individualized to each student, as Temple establishes the initial contacts and sets up interviews, if need be. See a partial list of [internship placement options](https://liberalarts.temple.edu/sites/liberalarts/files/PACapitalSemesterInternshipSites.pdf).
