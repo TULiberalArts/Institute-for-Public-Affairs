@@ -14,6 +14,8 @@ sidebar: sidebars/pa-capital-semester.html
 ![PA House Chamber]({{site.baseurl}}/media/resized PAHouseChamber_001.jpg){:.responsive-img .img-right}
 Started in fall 2009, the Institute for Public Affairs sponsors an internship semester each fall and spring semester in Harrisburg in association with Temple’s [Harrisburg campus](http://www.temple.edu/harrisburg/). Students have the opportunity to explore government affairs, policymaking and implementation first-hand while being full-time students and staying on track to graduation. Applications are being accepted on a rolling basis. We encourage students from schools other than Temple University to apply as well. Watch a video on the program below.
 
+Read about some of our [recent student experiences](https://liberalarts.temple.edu/news/temple-students-make-impact-state-capital)!
+
 ___
 
 <div align="center" class="video-container"><iframe width="620" height="349" src="https://www.youtube.com/embed/HWezXc_d0tA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
