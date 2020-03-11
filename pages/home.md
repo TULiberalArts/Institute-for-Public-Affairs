@@ -22,7 +22,7 @@ The Institute for Public Affairs conducts, supports, and disseminates interdisci
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="The Pennsylvania Capital Semester"
     content="This program is open to students of any major and college at Temple University as well as students of other colleges or universities, and is modeled on a study abroad placement. Students will experience total immersion in state institutions and state politics in Harrisburg."
     image=""
@@ -30,7 +30,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="The Washington Semester"
       content="The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students."
       image=""
@@ -38,7 +38,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Center on Regional Politics"
         content="The Center on Regional Politics provides neutral ground and intellectual resources to encourage and support interaction among leaders throughout Southeastern Pennsylvania."
         image=""
