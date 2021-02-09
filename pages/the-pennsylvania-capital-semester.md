@@ -62,3 +62,8 @@ Temple can arrange housing at the International House in downtown Harrisburg (wi
 Temple Harrisburg is located across the street from the Capitol building and within three blocks of the Amtrak train station. **See [this map](http://maps.google.com/maps/ms?msa=0&msid=113560990669779833771.000478319d92d0605eb21&hl=en&ie=UTF8&ll=40.262843,-76.87976&spn=0.007401,0.01649&z=17) of downtown Harrisburg.**
 
 - **_For further information, check out this [Pennsylvania Capital Semester Prezi Presentation](http://prezi.com/wha0v3hakntx/?utm_campaign=share&utm_medium=copy)!_**
+
+Contact:<br>
+**Program Coordinator**<br>
+Erin Dwyer<br>
+[erin.dwyer@temple.edu](mailto:erin.dwyer@temple.edu)<br>
