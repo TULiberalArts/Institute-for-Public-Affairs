@@ -13,8 +13,6 @@ keywords: 'washington semester, city hall, research, undergraduate, internship'
 ## The Washington Semester
 The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students. If accepted into the program, students register for three courses in the College of Liberal Arts (two for 3 credits each, and one for 9 credits) for a 15-credit semester in the fall and spring. (Summer programs are also available for 12 credits.) The Institute for Public Affairs serves as liaison to [The Washington Center (TWC)](https://www.twc.edu/), a well-established and well-regarded internship semester program in Washington, DC through which Temple students receive internships and take classes.
 
-**_Contact Program Coordinator Erin Dwyer at [erin.dwyer@temple.edu](mailto:erin.dwyer@temple.edu) for more information._**
-
 _What’s it like to be a student in the program? Watch [TWC’s interviews with alumni](https://www.youtube.com/watch?v=tmkbVCBiYo8)._
 - **Profiles of [The Washington Semester Alumni](https://develop.cla.temple.edu/institute-for-public-affairs/program-alumni/)**
 - **[The Washington Semester in CLA News](https://liberalarts.temple.edu/news/washington-semester-internships-prepare-cla-students-future
@@ -122,8 +120,9 @@ Compose an original essay of approximately 500 words to be used as a writing sam
 
 All applicants must have completed PS 1101, or a course judged equivalent. After applying to IPA, students are interviewed. Acceptance is contingent upon approval of the designated campus liaison, see contact information below.
 
-**Erin Dwyer<br>
-Program Coordinator<br>
-[erin.dwyer@temple.edu](mailto:erin.dwyer@temple.edu)**<br>
+Contact:<br>
+**Program Coordinator**<br>
+Erin Dwyer<br>
+[erin.dwyer@temple.edu](mailto:erin.dwyer@temple.edu)<br>
 
 Applying by the early deadline is encouraged for greater chances at securing additional financial aid, and for internship positions requiring security clearances, such as international affairs, law enforcement, and embassies.
