@@ -122,14 +122,8 @@ Compose an original essay of approximately 500 words to be used as a writing sam
 
 All applicants must have completed PS 1101, or a course judged equivalent. After applying to IPA, students are interviewed. Acceptance is contingent upon approval of the designated campus liaison, see contact information below.
 
-**Michelle J. Atherton<br>
-Associate Director<br>
-[215-204-9074](tel:2152049074)<br>
-[mjather@temple.edu](mailto:mjather@temple.edu)**<br>
-
-## Important Dates:
-- **Spring 2020 application deadlines: Early: October 2, 2019; Regular: October 31, 2019**
-- **Summer 2020 application deadlines: Early: February 12, 2020; Regular: March 12, 2020**
-- **Fall 2020 application deadlines: Early: April 1, 2020; Regular: April 30, 2020**
+**Erin Dwyer<br>
+Program Coordinator<br>
+[erin.dwyer@temple.edu](mailto:erin.dwyer@temple.edu)**<br>
 
 Applying by the early deadline is encouraged for greater chances at securing additional financial aid, and for internship positions requiring security clearances, such as international affairs, law enforcement, and embassies.
