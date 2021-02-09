@@ -13,6 +13,8 @@ keywords: 'washington semester, city hall, research, undergraduate, internship'
 ## The Washington Semester
 The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students. If accepted into the program, students register for three courses in the College of Liberal Arts (two for 3 credits each, and one for 9 credits) for a 15-credit semester in the fall and spring. (Summer programs are also available for 12 credits.) The Institute for Public Affairs serves as liaison to [The Washington Center (TWC)](https://www.twc.edu/), a well-established and well-regarded internship semester program in Washington, DC through which Temple students receive internships and take classes.
 
+**_Contact Program Coordinator Erin Dwyer at [erin.dwyer@temple.edu](mailto:erin.dwyer@temple.edu) for more information._**
+
 _What’s it like to be a student in the program? Watch [TWC’s interviews with alumni](https://www.youtube.com/watch?v=tmkbVCBiYo8)._
 - **Profiles of [The Washington Semester Alumni](https://develop.cla.temple.edu/institute-for-public-affairs/program-alumni/)**
 - **[The Washington Semester in CLA News](https://liberalarts.temple.edu/news/washington-semester-internships-prepare-cla-students-future
