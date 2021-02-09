@@ -8,7 +8,6 @@ title: Program Alumni
 description: >-
 keywords: 'affiliated centers, research, projects'
 # custom variables
-sidebar: sidebars/pa-capital-semester.html
 graduate_students: graduate_students2.html
 ---
 {% include {{ page.graduate_students }} %}
